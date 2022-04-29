@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 😄 Pronouns: He/him
+- 🌱 I’m currently studying Economics at the National University of Singapore (NUS) and planning to minor Business Analytics.
+- 🔭 I’m currently enjoying my summer break and picking up skills that are related to machine learning. 
+- 📫 How to reach me: liewjunyang11@gmail.com
 
 <!--
 **junyangggggg/junyangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
