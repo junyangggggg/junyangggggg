@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: He/him
-- 🌱 I’m currently studying Economics at the National University of Singapore (NUS) and planning to minor Business Analytics.
+- 🌱 I’m currently studying Economics at the National University of Singapore (NUS) and planning to minor in Business Analytics.
 - 🔭 I’m currently enjoying my summer break and picking up skills that are related to machine learning. 
 - 📫 How to reach me: liewjunyang11@gmail.com
 
